@@ -1,0 +1,4 @@
+"time_to_accept_bucket","accepted_rides","cancelled_after_accept_rides","cancelled_after_accept_rate"
+"2–5 min",74720,0,0.000
+"5–10 min",124302,0,0.000
+"10+ min",49357,24727,0.501
