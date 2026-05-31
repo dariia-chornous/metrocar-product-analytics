@@ -171,7 +171,6 @@ Available in the [`docs/`](./docs/) folder.
 Based on the analysis, several optimization opportunities were identified:
 
 * Reduce driver acceptance time below 10 minutes
-* Improve ride completion rates after acceptance
+* Improve ride completion after acceptance
 * Prioritize marketing investment in iOS
-* Optimize operational coverage during peak traffic hours
-* Improve onboarding and user retention flows
+* Adapt communication strategies for different age groups
