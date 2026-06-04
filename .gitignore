@@ -1,4 +1,10 @@
+# Temporary files
 ~$*
 *.tmp
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# Tableau backups
+*.twb~
