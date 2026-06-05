@@ -8,3 +8,6 @@ Thumbs.db
 
 # Tableau backups
 *.twb~
+
+# Docx files
+*.docx
