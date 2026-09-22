@@ -162,7 +162,7 @@ The project includes an executive-style business report with:
 * business recommendations
 * dashboard screenshots
 
-Available in the [`docs/`](./docs/) folder.
+[View Executive Report](docs/Metrocar_Product_Analytics_Report.pdf)
 
 ---
 
